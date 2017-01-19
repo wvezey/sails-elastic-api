@@ -1,6 +1,6 @@
 {
   "name": "sails-elastic-api",
-  "version": "0.10.0",
+  "version": "0.10.1",
   "description": "sails-elastic-api adapter for Sails / Waterline",
   "main": "adapter.js",
   "scripts": {
